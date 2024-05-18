@@ -1,0 +1,5 @@
+<map id="TemperatureSensor" name="TemperatureSensor">
+<area shape="rect" id="Node000001" title="The TemperatureSensor class represents a temperature sensor, inheriting from the Sensor class." alt="" coords="5,80,140,107"/>
+<area shape="rect" id="Node000002" href="$classSensor.html" title="The Sensor class serves as a base class for various sensor types." alt="" coords="41,5,104,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,48,75,80,70,80,70,48"/>
+</map>

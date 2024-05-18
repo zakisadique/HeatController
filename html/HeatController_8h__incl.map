@@ -1,0 +1,22 @@
+<map id="myCode/HeatController.h" name="myCode/HeatController.h">
+<area shape="rect" id="Node000001" title="Definition of the HeatController class." alt="" coords="307,5,474,32"/>
+<area shape="rect" id="Node000002" href="$InputKnob_8h.html" title="Definition of the InputKnob class." alt="" coords="5,80,96,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="331,35,111,82,110,77,330,30"/>
+<area shape="rect" id="Node000003" href="$Timer_8h.html" title="Definition of the Timer class." alt="" coords="120,80,184,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="350,35,200,80,198,75,348,30"/>
+<area shape="rect" id="Node000004" href="$PowerSupply_8h.html" title="Definition of the PowerSupply class." alt="" coords="208,80,317,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="370,35,299,74,297,70,367,30"/>
+<area shape="rect" id="Node000005" href="$HeatSource_8h.html" title="Definition of the HeatSource class." alt="" coords="340,80,441,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="393,33,393,64,388,64,388,33"/>
+<area shape="rect" id="Node000006" href="$Sensor_8h.html" title="Definition of the Sensor class and SensorType enumeration." alt="" coords="465,80,538,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="411,30,471,69,468,74,408,35"/>
+<area shape="rect" id="Node000007" href="$Display_8h.html" title="Definition of the Display class." alt="" coords="562,80,638,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="428,30,550,72,548,77,426,35"/>
+<area shape="rect" id="Node000009" href="$Logger_8h.html" title="Definition of the Logger class." alt="" coords="662,80,733,107"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="447,30,647,77,646,82,445,35"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="583,155,636,181"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="604,107,608,139,603,140,599,108"/>
+<area shape="poly" id="edge9_Node000009_Node000008" title=" " alt="" coords="684,109,638,147,634,143,680,105"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="670,155,725,181"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="700,107,700,139,695,139,695,107"/>
+</map>

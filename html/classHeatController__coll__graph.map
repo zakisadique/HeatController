@@ -1,0 +1,17 @@
+<map id="HeatController" name="HeatController">
+<area shape="rect" id="Node000001" title="The HeatController class manages various components for optimal heating in a room." alt="" coords="301,128,405,155"/>
+<area shape="rect" id="Node000002" href="$classInputKnob.html" title="The InputKnob class represents an input knob to provide the user to set a specific temperature." alt="" coords="5,5,85,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="55,45,69,76,80,90,92,102,129,116,184,126,301,136,301,141,183,131,128,121,90,106,76,94,65,79,50,48"/>
+<area shape="rect" id="Node000003" href="$classTimer.html" title="The Timer class represents a timer with a specified state (true for On, false for Off) and remaining ..." alt="" coords="110,5,164,32"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="154,44,176,75,207,102,254,122,302,133,300,138,252,127,204,106,172,78,149,47"/>
+<area shape="rect" id="Node000004" href="$classPowerSupply.html" title="The PowerSupply class represents a power supply with a specific voltage." alt="" coords="188,5,286,32"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,46,254,75,272,102,288,115,308,125,305,130,285,120,268,106,249,78,239,48"/>
+<area shape="rect" id="Node000005" href="$classHeatSource.html" title="The HeatSource class represents a heat source with a specific state (true for On, false for Off)." alt="" coords="310,5,399,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="357,48,356,128,350,127,351,48"/>
+<area shape="rect" id="Node000006" href="$classSensor.html" title="The Sensor class serves as a base class for various sensor types." alt="" coords="423,5,486,32"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="453,48,444,77,427,106,411,120,393,130,390,125,408,115,423,102,439,75,448,46"/>
+<area shape="rect" id="Node000007" href="$classDisplay.html" title="The Display class represents a display with multiple slots for content." alt="" coords="564,5,628,32"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="595,48,585,79,577,93,565,106,537,119,496,129,405,140,405,134,495,124,536,114,562,102,573,90,581,76,590,46"/>
+<area shape="rect" id="Node000008" href="$classLogger.html" title="The Logger class represents a logging mechanism to help debug in case of malfunction." alt="" coords="652,5,713,32"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="678,48,665,79,655,94,641,106,623,115,598,123,536,133,405,142,405,137,535,128,597,118,621,110,638,102,651,90,660,76,674,45"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="myCode/AirQualitySensor.cpp" name="myCode/AirQualitySensor.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,202,32"/>
+<area shape="rect" id="Node000002" href="$AirQualitySensor_8h.html" title="Definition of the AirQualitySensor class, derived from the Sensor class." alt="" coords="38,80,169,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,33,106,64,101,64,101,33"/>
+<area shape="rect" id="Node000003" href="$Sensor_8h.html" title="Definition of the Sensor class and SensorType enumeration." alt="" coords="67,155,140,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="106,107,106,139,101,139,101,107"/>
+</map>
