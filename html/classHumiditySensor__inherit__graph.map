@@ -1,5 +1,0 @@
-<map id="HumiditySensor" name="HumiditySensor">
-<area shape="rect" id="Node000001" title="The HumiditySensor class represents a humidity sensor, inheriting from the Sensor class." alt="" coords="5,80,119,107"/>
-<area shape="rect" id="Node000002" href="$classSensor.html" title="The Sensor class serves as a base class for various sensor types." alt="" coords="31,5,93,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,48,65,80,59,80,59,48"/>
-</map>

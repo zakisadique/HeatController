@@ -1,5 +1,0 @@
-<map id="AirQualitySensor" name="AirQualitySensor">
-<area shape="rect" id="Node000001" title="The AirQualitySensor class represents an air quality sensor, inheriting from the Sensor class." alt="" coords="5,80,125,107"/>
-<area shape="rect" id="Node000002" href="$classSensor.html" title="The Sensor class serves as a base class for various sensor types." alt="" coords="34,5,96,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,48,68,80,62,80,62,48"/>
-</map>
